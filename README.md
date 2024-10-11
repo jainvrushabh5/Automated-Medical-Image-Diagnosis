@@ -1,1 +1,1 @@
-# Automated-Medical-Image-Diagnosis-
+# Automated-Medical-Image-Diagnosis
